@@ -1,0 +1,100 @@
+0,CrossFit,Dumbbells|Stationary Bike|Medicine Ball,
+1,Martial Arts,Exercise Mat|Foam Roller|Rowing Machine|Resistance Bands,
+2,HIIT,Jump Rope|Battle Ropes|TRX Suspension Trainer,reps:11|sets:4
+3,Functional Training,Kettlebells|Battle Ropes|Exercise Ball,reps:10|sets:5
+4,Stretching,Jump Rope|Resistance Bands|Kettlebells,
+5,Swimming,Exercise Ball|Dumbbells|Jump Rope|Kettlebells,distance_km:6.957150714658852
+6,Rowing,Stationary Bike|Pull-up Bar|Dumbbells,distance_km:8.645194032953837
+7,Strength Training,Barbell|Kettlebells|Battle Ropes|Foam Roller,reps:11|sets:3
+8,Bodyweight,Jump Rope|Rowing Machine|Exercise Ball|Pull-up Bar,reps:10|sets:4
+9,Functional Training,Foam Roller,reps:9|sets:4
+10,Cardio,Battle Ropes,distance_km:8.424775320315092
+11,Cardio,Barbell,distance_km:1.887053042994796
+12,Outdoor Hiking,Pull-up Bar,distance_km:2.418825789707409
+13,Outdoor Hiking,Exercise Mat,distance_km:4.4524651701778675
+14,Bodyweight,Stationary Bike|Resistance Bands|Pull-up Bar|Dumbbells,reps:11|sets:5
+15,Martial Arts,Rowing Machine|Resistance Bands,
+16,Functional Training,Dumbbells|Barbell|Jump Rope|Medicine Ball,reps:9|sets:5
+17,Swimming,Barbell|Rowing Machine|Exercise Mat|Medicine Ball,distance_km:9.312999023546444
+18,Yoga,Pull-up Bar,
+19,CrossFit,Pull-up Bar,
+20,Spin Class,TRX Suspension Trainer|Exercise Ball|Treadmill|Rowing Machine,
+21,Spin Class,Foam Roller|Kettlebells|Exercise Mat,
+22,Cardio,Kettlebells|Rowing Machine|Exercise Ball|Exercise Mat,distance_km:7.1474493830984445
+23,HIIT,TRX Suspension Trainer,reps:11|sets:4
+24,Swimming,Kettlebells|TRX Suspension Trainer,distance_km:4.574048432290629
+25,Zumba,Battle Ropes|Stationary Bike,distance_km:7.028641378783422
+26,HIIT,Exercise Mat,reps:8|sets:3
+27,Martial Arts,Dumbbells|Jump Rope|Treadmill,
+28,Cardio,TRX Suspension Trainer|Exercise Mat,distance_km:4.1090397886041155
+29,Rowing,Battle Ropes|TRX Suspension Trainer|Treadmill|Jump Rope,distance_km:1.9419191987809254
+30,Endurance Training,Rowing Machine|Exercise Ball|Dumbbells,
+31,HIIT,Rowing Machine,reps:8|sets:3
+32,Zumba,Exercise Ball|Dumbbells|Pull-up Bar,distance_km:6.631575880835387
+33,Strength Training,Resistance Bands|Battle Ropes|Barbell|Kettlebells,reps:12|sets:5
+34,Zumba,Kettlebells|Resistance Bands|Exercise Mat,distance_km:7.770539046787868
+35,Swimming,Resistance Bands|Exercise Ball|Foam Roller|Dumbbells,distance_km:3.596190766653703
+36,Bodyweight,TRX Suspension Trainer,reps:9|sets:4
+37,Endurance Training,Barbell,
+38,Rowing,Treadmill|Battle Ropes|TRX Suspension Trainer,distance_km:4.999612816971914
+39,Rowing,Treadmill,distance_km:4.589859985695244
+40,HIIT,Stationary Bike|Medicine Ball,reps:8|sets:4
+41,Martial Arts,Rowing Machine|Kettlebells,
+42,Martial Arts,Kettlebells|Exercise Mat|Medicine Ball,
+43,Outdoor Hiking,Medicine Ball|Foam Roller|Exercise Mat,distance_km:6.1462106141198385
+44,Functional Training,Resistance Bands|Rowing Machine|Medicine Ball|Jump Rope,reps:11|sets:4
+45,Yoga,Battle Ropes|Stationary Bike,
+46,HIIT,Foam Roller,reps:11|sets:3
+47,Rowing,TRX Suspension Trainer|Resistance Bands,distance_km:7.144798568402766
+48,Yoga,Exercise Mat,
+49,Endurance Training,TRX Suspension Trainer|Stationary Bike,
+50,Swimming,Resistance Bands|Kettlebells,distance_km:6.852782338330029
+51,Cardio,Barbell|Treadmill|Kettlebells,distance_km:2.0353805941226373
+52,Stretching,Exercise Mat,
+53,Martial Arts,Resistance Bands,
+54,Strength Training,Dumbbells|Resistance Bands,reps:12|sets:4
+55,Rowing,Exercise Ball|Battle Ropes|Resistance Bands|Exercise Mat,distance_km:4.278118781242421
+56,Swimming,Exercise Ball|Dumbbells|Treadmill|Resistance Bands,distance_km:6.540556489725257
+57,Zumba,Stationary Bike|Pull-up Bar|TRX Suspension Trainer,distance_km:3.0359174320412836
+58,Cardio,Exercise Mat|Rowing Machine|Pull-up Bar|Resistance Bands,distance_km:5.536971148980244
+59,Cardio,Exercise Ball|Resistance Bands|Kettlebells,distance_km:7.662877871156815
+60,Bodyweight,Exercise Mat,reps:9|sets:5
+61,Outdoor Hiking,Resistance Bands|Pull-up Bar|Exercise Ball|Battle Ropes,distance_km:1.5275006659736836
+62,Rowing,Kettlebells|Stationary Bike|Rowing Machine|Exercise Ball,distance_km:6.431651963440021
+63,Functional Training,Stationary Bike|Medicine Ball|Resistance Bands|Dumbbells,reps:9|sets:4
+64,Functional Training,Stationary Bike,reps:9|sets:3
+65,Swimming,Exercise Mat|Exercise Ball|Barbell,distance_km:3.889906657991176
+66,Outdoor Hiking,Dumbbells|Exercise Ball|Rowing Machine|TRX Suspension Trainer,distance_km:2.873931829171143
+67,Bodyweight,Resistance Bands|Exercise Ball,reps:8|sets:5
+68,CrossFit,Kettlebells|Exercise Mat|Stationary Bike,
+69,Yoga,Rowing Machine,
+70,Bodyweight,TRX Suspension Trainer|Dumbbells|Battle Ropes|Kettlebells,reps:12|sets:3
+71,Functional Training,Stationary Bike,reps:9|sets:4
+72,Swimming,Stationary Bike|TRX Suspension Trainer,distance_km:9.216545857679007
+73,Zumba,Stationary Bike|Foam Roller|Battle Ropes|Rowing Machine,distance_km:2.9477175482541575
+74,Swimming,Foam Roller|Jump Rope|Resistance Bands|TRX Suspension Trainer,distance_km:5.206159018784226
+75,HIIT,Resistance Bands|Stationary Bike,reps:12|sets:5
+76,Yoga,Barbell|Medicine Ball|Battle Ropes,
+77,Yoga,Exercise Ball|Resistance Bands|Jump Rope|Medicine Ball,
+78,Endurance Training,Resistance Bands|Pull-up Bar|Barbell|Exercise Mat,
+79,Rowing,Pull-up Bar|Exercise Ball|TRX Suspension Trainer|Stationary Bike,distance_km:1.9140471324787214
+80,Yoga,Kettlebells|Medicine Ball|TRX Suspension Trainer,
+81,Zumba,Medicine Ball|Kettlebells|Pull-up Bar|Exercise Mat,distance_km:9.688547472414939
+82,Bodyweight,Jump Rope,reps:10|sets:3
+83,Outdoor Hiking,Dumbbells|Medicine Ball|Battle Ropes|Resistance Bands,distance_km:3.054440270650536
+84,Martial Arts,Dumbbells,
+85,Endurance Training,Dumbbells,
+86,Rowing,Jump Rope,distance_km:4.082216567172523
+87,Endurance Training,Exercise Ball|Jump Rope|Kettlebells,
+88,Spin Class,Rowing Machine|Foam Roller,
+89,Spin Class,Battle Ropes,
+90,Cardio,Jump Rope|Exercise Mat|Resistance Bands,distance_km:9.192904568121229
+91,Zumba,Jump Rope|Dumbbells,distance_km:3.2160299344988825
+92,Strength Training,Exercise Ball|Foam Roller,reps:9|sets:5
+93,Bodyweight,Stationary Bike|Kettlebells,reps:10|sets:5
+94,Rowing,Barbell,distance_km:3.388006505749168
+95,Strength Training,Stationary Bike,reps:8|sets:3
+96,Martial Arts,Exercise Mat|Jump Rope|Barbell|Treadmill,
+97,CrossFit,Exercise Mat|Battle Ropes,
+98,Yoga,Treadmill|Exercise Mat|Medicine Ball|Rowing Machine,
+99,Outdoor Hiking,Barbell|Battle Ropes|Exercise Mat,distance_km:5.528563501099463
