@@ -1,7 +1,7 @@
 🐝 Hive Data Warehouse for Business Analytics 📊
 
 
-This project is a demonstration of data warehousing using Apache Hive. Designed as a University project, it highlights techniques for creating and managing a data warehouse to support analytical queries and business insights.
+This project is a demonstration of data warehousing using Apache Hive. It highlights techniques for creating and managing a data warehouse to support analytical queries and business insights.
 
 🚀 Features
 
